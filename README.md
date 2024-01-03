@@ -33,6 +33,7 @@ A simple Python script using the Pytube library to download YouTube videos. This
 
 
 4. Run the script:
-   python downloader.py
+- python downloader.py
+
 
 5. Follow the prompts to enter the YouTube video URL, choose resolution, and provide the download path.

@@ -25,11 +25,11 @@ A simple Python script using the Pytube library to download YouTube videos. This
 ## Usage
 
 2. Install the required dependencies:
-   pip install pytube
+- pip install pytube
 
 
 3. Navigate to the repository's directory:
-   cd download-YouTube-video-Using-Pytube
+- cd download-YouTube-video-Using-Pytube
 
 
 4. Run the script:
